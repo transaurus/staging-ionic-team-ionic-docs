@@ -1,0 +1,17 @@
+src/theme/DocItem
+src/theme/DocRoot
+legacy-stencil-components
+scripts/bak
+
+docs/api
+docs/native
+versioned_docs/version-v*/native
+docs/cli/commands
+docs/reference/glossary.md
+
+static/code/stackblitz
+
+.docusaurus
+.github
+build
+node_modules
